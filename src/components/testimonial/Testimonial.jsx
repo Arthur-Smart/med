@@ -14,7 +14,7 @@ function Testimonial() {
           d="M0,32L720,64L1440,160L1440,0L720,0L0,0Z"
         ></path>
       </svg>
-      <div className="container testimonial-main flex flex-col items-center justify-center px-4">
+      <div className="container testimonial-main flex flex-col items-center justify-center px-2">
         <p className="text-3xl md:text-4xl text-center px-2 font-bold py-4 font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-violet-800">
           What the nation is saying about us
         </p>
