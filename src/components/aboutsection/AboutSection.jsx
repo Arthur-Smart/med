@@ -5,7 +5,7 @@ import "./aboutsection.css";
 function AboutSection() {
   return (
     <>
-      <div className="about-section px-4 py-2 flex flex-col items-center justify-center">
+      <div className="about-section px-2 py-2 flex flex-col items-center justify-center">
         <div className="container flex flex-col items-center justify-center">
           <p className="text-3xl text-center font-bold text-cyan-600">
             Everything you need to know about Boresha Afya Healthcare
