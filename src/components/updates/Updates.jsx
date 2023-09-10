@@ -21,7 +21,7 @@ function Updates() {
 
   return (
     <div className="updates flex  items-center justify-center">
-      <div className="container flex flex-col items-center justify-center px-4">
+      <div className="container flex flex-col items-center justify-center px-2">
         <p className="text-center font-bold text-2xl md:text-4xl  text-white">
           Our upcoming{" "}
           <span className="font-extrabold text-transparent text-10xl bg-clip-text bg-gradient-to-r from-blue-400 to-pink-800">
