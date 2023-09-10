@@ -36,7 +36,7 @@ function Appointment() {
           d="M0,128L720,32L1440,96L1440,0L720,0L0,0Z"
         ></path>
       </svg>
-      <div className=" container flex flex-col items-center justify-center appointment-wrapper">
+      <div className=" container flex flex-col items-center justify-center appointment-wrapper px-2">
         <div className="appointment-top flex flex-col items-center justify-center">
           <p className="font-extrabold text-center text-white text-3xl md:text-4xl">
             Book an appointment with us
