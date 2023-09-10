@@ -4,7 +4,7 @@ import "./subservices.css";
 
 function SubServices() {
   return (
-    <div className="sub-services flex items-center py-10 px-4 justify-center">
+    <div className="sub-services flex items-center py-10 px-2 justify-center">
       <div className="container py-10 flex items-center flex-col justify-center">
         <p className="font-medium text-3xl text-stone-800 text-center">
           Our healthcare deliveries
